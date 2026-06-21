@@ -1,6 +1,6 @@
 # bot-police
 Бот для УВД RMRP 
 Редактировал Марк Варкин
-Контакты: 
+#Контакты: 
 Telegram LorSwelL
 Discor LorSwelL
